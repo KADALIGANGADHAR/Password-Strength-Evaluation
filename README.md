@@ -13,13 +13,15 @@ To understand what makes a password strong and evaluate multiple passwords using
 
 ## 🔡 Passwords Tested and Results
 
-| Password        | Strength Score (PasswordMeter) | Time to Crack (Security.org) | Feedback                                         |
-|-----------------|-------------------------------|-------------------------------|--------------------------------------------------|
-| Rajkumar@12345  |Very Strong                    | 2 hundred million year        | Repeat Characters Consecutive Lowercase Letters  |  | 62412523746142  |Weak                           | 41 Minutes                    | Repeat Characters , Numbers only                 |
-| RAJSAINATHGOUD  |Very Weak                      | 51 years                      | Repeat Characters , Letters only                 |
-| Hema@11223344   |Very Strong                    | 2 Million years               | Repeat Characters , Consecutive Numbers          |
-| 12345678900000  |Very Weak                      | 41 Minutes                    | Repeat Characters , Numbers only                 |
-| 1234abcdABCD@#  |Very Strong                    | 2 hundred million year        | Consecutive Uppercase Letters,Consecutive  Numbers,Sequential Letters 
+| Password           | Strength Score (PasswordMeter) | Time to Crack (Security.org) | Feedback                                                      |
+|--------------------|-------------------------------|-------------------------------|---------------------------------------------------------------|
+| Rajkumar@12345     | Very Strong                   | 200 million years             | Repeat characters, consecutive lowercase letters              |
+| 62412523746142     | Weak                          | 41 minutes                    | Repeat characters, numbers only                               |
+| RAJSAINATHGOUD     | Very Weak                     | 51 years                      | Repeat characters, letters only                               |
+| Hema@11223344      | Very Strong                   | 2 million years               | Repeat characters, consecutive numbers                        |
+| 12345678900000     | Very Weak                     | 41 minutes                    | Repeat characters, numbers only                               |
+| 1234abcdABCD@#     | Very Strong                   | 200 million years             | Consecutive uppercase letters, consecutive numbers, sequential letters |
+
 ---
 **Password : Rajkumar@12345**
 ![Screenshot 2025-07-01 164229](https://github.com/user-attachments/assets/56f550e9-c263-4fea-a3b1-d2b1a9ea463a)
