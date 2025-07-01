@@ -16,24 +16,34 @@ To understand what makes a password strong and evaluate multiple passwords using
 | Password        | Strength Score (PasswordMeter) | Time to Crack (Security.org) | Feedback                                         |
 |-----------------|-------------------------------|-------------------------------|--------------------------------------------------|
 | Rajkumar@12345  |Very Strong                    | 2 hundred million year        | Repeat Characters Consecutive Lowercase Letters  |  | 62412523746142  |Weak                           | 41 Minutes                    | Repeat Characters , Numbers only                 |
-|                 |                               |                               |                                                  |
-|                 |                               |                               |                                           |
-|                 | Medium                        |                  | Add more length/special characters        |
-|                 | Strong                        |                | Good mix, decent length                   |
-|                 | Very Strong                   |                   | Excellent complexity and entropy          |
-|                 | Very Strong                   |                 | Great passphrase, hard to crack           |
-|                 | Very Weak                     |                   | Common password pattern                   |
-| 1234abcdABCD@#  | Strong                        |                      | Secure format, but slightly predictable   |
-
+| RAJSAINATHGOUD  |Very Weak                      | 51 years                      | Repeat Characters , Letters only                 |
+| Hema@11223344   |Very Strong                    | 2 Million years               | Repeat Characters , Consecutive Numbers          |
+| 12345678900000  |Very Weak                      | 41 Minutes                    | Repeat Characters , Numbers only                 |
+| 1234abcdABCD@#  |Very Strong                    | 2 hundred million year        | Consecutive Uppercase Letters,Consecutive  Numbers,Sequential Letters 
+---
 **Password : Rajkumar@12345**
 ![Screenshot 2025-07-01 164229](https://github.com/user-attachments/assets/56f550e9-c263-4fea-a3b1-d2b1a9ea463a)
 ![Screenshot 2025-07-01 164825](https://github.com/user-attachments/assets/93a5101e-c73d-4144-ab34-4be992b81cd1)
-**Password : 62412523746142**
+---
+## Password : 62412523746142 
 ![Screenshot 2025-07-01 170329](https://github.com/user-attachments/assets/6adec6d1-f084-47f4-a55d-d9f674fd5662)
 ![Screenshot 2025-07-01 170343](https://github.com/user-attachments/assets/3e4d41ff-72bd-49fe-9ecc-6dee7f9eb8a4)
-
 ---
-
+## Password : RAJSAINATHGOUD 
+![Screenshot 2025-07-01 172043](https://github.com/user-attachments/assets/d78cb763-b1f7-4b88-a03b-f39166444636)
+![Screenshot 2025-07-01 172056](https://github.com/user-attachments/assets/ffe0c71e-ddfd-4c97-b081-0cc18bf2d0f5)
+---
+## Password : Hema@11223344 
+![Screenshot 2025-07-01 174229](https://github.com/user-attachments/assets/37631b0a-b920-4d27-b409-a86e1f56d250)
+![Screenshot 2025-07-01 174216](https://github.com/user-attachments/assets/531d1cda-82e3-47f1-98be-0d9c354d8963)
+---
+## Password : 12345678900000 
+![Screenshot 2025-07-01 174615](https://github.com/user-attachments/assets/6377128b-93c8-4ffb-8ada-f1c348b66a67)
+![Screenshot 2025-07-01 174627](https://github.com/user-attachments/assets/b02be26c-ecd8-4019-8651-1d76b20148eb)
+## Password : 1234abcdABCD@# 
+![Screenshot 2025-07-01 175125](https://github.com/user-attachments/assets/a4d53264-44ed-47e5-bc28-8e7fa4d43506)
+![Screenshot 2025-07-01 175136](https://github.com/user-attachments/assets/bd400ee8-a776-4099-a537-414704abe6e8)
+---
 ## 🛡️ What Makes a Password Strong?
 - At least 12–16 characters long
 - You must have a unique password for each online account.
